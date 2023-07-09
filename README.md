@@ -38,9 +38,17 @@ To start the Bot , run the ``main.py`` file
 </br></br>
 ![help](https://github.com/Ayush-721/Lockout-Tourney-Bot/assets/95296019/8cbaa040-fdc2-4206-8d75-03c46ff3df3d)
 
+```!managerHelp command```
+</br></br>
+![managerhelp](https://github.com/Ayush-721/Lockout-Tourney-Bot/assets/95296019/4c1a40f2-8593-425e-a29e-aca698e175d4)
+
 ```User Validation```
 </br></br>
 ![validation](https://github.com/Ayush-721/Lockout-Tourney-Bot/assets/95296019/8b766f03-8e24-4bf4-812a-0ed8f71601d7)
+
+```StartRegister command```
+</br></br>
+![startRegister](https://github.com/Ayush-721/Lockout-Tourney-Bot/assets/95296019/be9f692d-7d47-41c3-af81-abbdf5851abb)
 
 ``` Start Match and Round Updates Popup```
 </br></br>
