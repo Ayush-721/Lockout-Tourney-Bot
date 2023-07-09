@@ -15,4 +15,73 @@ We tried to create user-friendly interface, allowing participants get to validat
 * <b>Show Participants: </b> Gives the list of participants in a particular tournament along with their [Codeforces](https://codeforces.com/) and [Atcoder](https://atcoder.jp/) profile's max ratings.
 * <b> Show Matches: </b> Provides user with the fixture of matches to be played in the ongoing tournament. This fixture is built by using the method of <b>Single Elimination Tournament</b> with byes given in case of an unsymetric number of participants in the particular round.
 
-The commands for all these features and their usage can be retrieved by executing the command !help in the server.
+The commands for all these features can be retrieved by executing the ```!help``` command.
+
+# How to Use:
+The Lockout Bot can be installed locally by running the below command.
+
+```git clone https://github.com/addy-1406/Lockout-Bot.git```
+
+To use the bot install the required dependencies:
+
+* [requests](https://requests.readthedocs.io/en/latest/user/install/)
+* [asyncio](https://pypi.org/project/asyncio/)
+* [bs4](https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup)
+* [discord](https://pypi.org/project/discord.py/)
+* [pymongo](https://pypi.org/project/pymongo/)
+
+To start the Bot , run the ``main.py`` file
+
+# Bot in Action:
+
+```!help``` command
+</br></br>
+![help](https://github.com/Ayush-721/Lockout-Tourney-Bot/assets/95296019/8cbaa040-fdc2-4206-8d75-03c46ff3df3d)
+
+```User Validation```
+</br></br>
+![validation](https://github.com/Ayush-721/Lockout-Tourney-Bot/assets/95296019/8b766f03-8e24-4bf4-812a-0ed8f71601d7)
+
+``` Start Match and Round Updates Popup```
+</br></br>
+![startMatchandupdate](https://github.com/Ayush-721/Lockout-Tourney-Bot/assets/95296019/1aa63d52-959b-4add-96fa-f200a7a7abaa)
+
+``` !showParticipants command```
+</br></br>
+![showparticipants](https://github.com/Ayush-721/Lockout-Tourney-Bot/assets/95296019/266025d5-5623-4617-914e-2db3f79c21e7)
+
+```Update in Problem Set on solving a problem```
+</br></br>
+![solveupdate](https://github.com/Ayush-721/Lockout-Tourney-Bot/assets/95296019/7aaa5038-ab80-427a-a094-f2d0c3fa30b1)
+
+```End of a round```
+</br></br>
+![matchfinish](https://github.com/Ayush-721/Lockout-Tourney-Bot/assets/95296019/58618c05-8ab1-4d41-986c-f0a9538f3a49)
+
+```!showTourneys command```
+</br></br>
+![showtourney](https://github.com/Ayush-721/Lockout-Tourney-Bot/assets/95296019/a8bd528b-0971-4131-9f29-b5229f25c3c9)
+
+```!stalk command```
+</br></br>
+![stalk](https://github.com/Ayush-721/Lockout-Tourney-Bot/assets/95296019/d2def038-a719-4daf-a781-48698fccb201)
+
+```When you ace the tournament```
+</br></br>
+![tournamentend](https://github.com/Ayush-721/Lockout-Tourney-Bot/assets/95296019/d6df9f55-d4b7-4da0-bd6f-5a60529b42ac)
+
+
+# Team:
+
+This project was made by:
+* [Aditya Mandal](https://github.com/addy-1406)
+* [Tanish](https://github.com/v-tanish012)
+* [Shrivathsa P S](https://github.com/5hrivathsa)
+* [Achintya Gupta](https://github.com/achintya7567)
+* [Ayush Kumar](https://github.com/Ayush-721)
+* [Riya Mittal](https://github.com/mit-riya)
+* [Chandrashekar A. Giridharan](https://github.com/chandrashekar27)
+
+
+
+
