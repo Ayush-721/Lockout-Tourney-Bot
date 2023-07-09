@@ -3,7 +3,7 @@
 
 This is a [Python](https://www.python.org/) based Discord bot which helps to organise tournaments and conduct 1v1 programming matches. The bot can handle scheduling and organisation of the fixtures.</br>
 We used the [Codeforces](https://codeforces.com/apiHelp) API for fetching questions and also check for submissions in real time while conducting the matches itself. We used  [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) for web scraping to get the support of  [AtCoder](https://atcoder.jp/)  judge.
-We tried to create user-friendly interface, allowing participants get to validated and compete in tournaments. All of these features were integrated with the help of [discord.py](https://discordpy.readthedocs.io/en/stable/) library.
+We tried to create a user-friendly interface, allowing participants get to validated and compete in tournaments. All of these features were integrated with the help of [discord.py](https://discordpy.readthedocs.io/en/stable/) library.
 
 # Features
 * <b>Competitive Programming Judges supported: </b>[Codeforces](https://codeforces.com/) and [Atcoder](https://atcoder.jp/).
